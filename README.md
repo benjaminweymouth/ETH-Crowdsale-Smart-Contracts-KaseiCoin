@@ -102,6 +102,10 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
+
+ [![Crowdsale-Smart-Contracts-KaseiCoin](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/blob/main/Resources/Screenshot4v2.png)](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/edit/main/README.md)
+
+
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
 
-
+ [![Crowdsale-Smart-Contracts-KaseiCoin](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/blob/main/Resources/screenVideo.png)](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/edit/main/README.md)
