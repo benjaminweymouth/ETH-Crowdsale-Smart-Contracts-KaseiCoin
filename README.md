@@ -90,6 +90,8 @@ Next, in the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to st
 
 7. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Git repository.
 
+ [![Crowdsale-Smart-Contracts-KaseiCoin](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/blob/main/Resources/Screenshot3.png)](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/edit/main/README.md)
+
 ### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
 In this subsection, you’ll deploy the crowdsale to a local blockchain. You’ll then perform a real-world, preproduction test of your crowdsale. To do so, complete the following steps:
