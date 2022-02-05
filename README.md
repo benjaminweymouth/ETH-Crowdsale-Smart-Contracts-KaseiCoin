@@ -48,6 +48,8 @@ In this subsection, you’ll define the KaseiCoin crowdsale contract. To do so, 
 
     * `MintedCrowdsale`
 
+[![Crowdsale-Smart-Contracts-KaseiCoin](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/blob/main/Resources/Screenshot2.png)](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/edit/main/README.md)
+
 3. In the `KaisenCoinCrowdsale` constructor, provide parameters for all the features of your crowdsale, such as `rate`, `wallet` (where to deposit the funds that the token raises), and `token`. Configure these parameters as you want for your KaseiCoin token.
 
 4. Compile the contract by using compiler version 0.5.0.
