@@ -96,8 +96,6 @@ Next, in the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to st
 
 In this subsection, you’ll deploy the crowdsale to a local blockchain. You’ll then perform a real-world, preproduction test of your crowdsale. To do so, complete the following steps:
 
-###  **Important:** Record a short video or take screenshots that illustrate the following steps as evidence of your deployed crowdsale contract.
-
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
  [![Crowdsale-Smart-Contracts-KaseiCoin](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/blob/main/Resources/Screenshot4v2.png)](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/edit/main/README.md)
@@ -109,5 +107,7 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
+
+###  Here is a short GIF video showing the transactions and the Wei that was raised. (Using 2 separate Ganache accounts)
 
  [![Crowdsale-Smart-Contracts-KaseiCoin](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/blob/main/Resources/screenVideo.gif)](https://github.com/benjaminweymouth/ETH-Crowdsale-Smart-Contracts-KaseiCoin/edit/main/README.md)
